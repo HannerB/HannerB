@@ -166,25 +166,10 @@
 </div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
 </p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="mailto:hannerb@example.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hannerb/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
-</p>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+![Snake animation](https://github.com/{HannerB}/HannerB/blob/output/snake.svg)
 
 <h6 align="center">
   <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34" />
