@@ -1,83 +1,80 @@
+<p align="center"> 
+  <img src="assets/header.png"/>
+</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> 
-</p>  
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hanner+B;Software+Engineer" width="auto" height="35"/>
+</p>
 
-<img src="https://github.com/HannerB/HannerB/blob/main/anime_laravel.png" height="20%" width="20%"/>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+</p>
 
-### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
+<h3 align="center">My Interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Web+Development" width="auto" height="35"/>
+</p>
+<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently working on - Private Projects</p>
 
-<h6> Passionate Laravel Developer driven by the art of clean code. Constantly learning and pushing the boundaries of web development. I aim to craft scalable and efficient backend solutions, enjoying every step of problem-solving with PHP, Laravel, and other web technologies. </h6>
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <a href="https://github.com/HannerB/Python_Programming.git" target="_blank">
+    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
+  </a>
+</p>
 
-<details>
-<summary><b>Skills</b></summary>
-<div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HannerB&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,python)](https://skillicons.dev)
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HannerB&hide_border=true&theme=transparent" /> 
+</p>
 
+<!-- Trophy -->
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
-   
-<summary><b>Learning</b></summary>
-<div>
-  
-[![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
-  
-</div>
-</details>
-
-<details>
-  <summary><b>Motto</b></summary>
-<div>
-
-- **"Code is like humor. When you have to explain it, it’s bad."**
-  
-</div>
-</details>
-
-## 🍿 !notifs 
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34"  />
-</h6>
-
-<h6 align="center">
-  ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
-  ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) 
-  ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
-</h6>
-
-
-##
-
-
-<details>
-  <summary><b>📊 My Github Stats</b></summary>
-
-<h6 align="center">
-
-  <img src="https://gh-readme-profile.vercel.app/api?username=HannerB&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
-
-</h6>
-</details>
-
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=HannerB&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HannerB&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HannerB&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HannerB&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HannerB&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannerB&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-</details>
 
-<details>
-  <summary><b>⛎ My Pet</b></summary>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HannerB/HannerB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HannerB/HannerB/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HannerB/HannerB/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-</details>
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="mailto:hannerb@example.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://yourwebsite.com" target="_blank">
+    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/hannerb/" target="_blank">
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+  </a>
+</p>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34" />
+</h6>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/HannerB/count.svg">  
+  Counting of visitors to this page in this section started from May 1, 2022
+</p>
+
+<a href="http://s01.flagcounter.com/more/ap7">
+  <img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
