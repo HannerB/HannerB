@@ -45,6 +45,21 @@
   ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </h6>
 
+
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34" />
+</h6>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/HannerB/count.svg">  
+  Counting of visitors to this page in this section started from May 1, 2022
+</p>
+
+<a href="http://s01.flagcounter.com/more/ap7">
+  <img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
+
+
 ##
 
 
