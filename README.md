@@ -54,6 +54,8 @@
 
 <details>
   <summary><b>📊 My Github Stats</b></summary>
+  ![GITHUB Stats](https://raw.githubusercontent.com/HannerB/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/HannerB/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/HannerB/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/HannerB/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <h6 align="center">
 
