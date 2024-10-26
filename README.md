@@ -1,174 +1,189 @@
-<!-- Header Section -->
-<p align="center"> 
-  <img src="assets/header.png"/>
-</p>
+# <div align="center">⚡ Welcome to my Digital Space ⚡</div>
 
-<!-- Introduction -->
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hanner+B;Software+Engineer" width="auto" height="35"/>
-</p>
+<!-- Introduction with animated text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Hanner+B;Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
-</p>
+<!-- Status Section with modern badges -->
+<div align="center">
+  <a href="https://github.com/HannerB?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HannerB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/HannerB?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HannerB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="#">
+    <img alt="Working" title="Currently Working" src="https://custom-icon-badges.demolab.com/badge/Currently-Working%20on%20Private%20Projects-purple.svg?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+</div>
 
-<!-- Interests Section -->
-<h3 align="center">My Interests</h3>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Web+Development" width="auto" height="35"/>
-</p>
+<br/>
 
-<!-- Current Status -->
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
-<p align="center">Currently working on - Private Projects</p>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack -->
-<h3 align="center">Technical Skills</h3>
+<!-- Technical Skills Section -->
+<div align="center">
+  <h2>🛠️ My Tech Arsenal</h2>
+</div>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <!-- Frontend Technologies -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>React</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
-      <br>Angular
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br><b>Angular</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
-      <br>Vue.js
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br><b>Vue.js</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>JavaScript</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>TypeScript</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br><b>HTML5</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br><b>CSS</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br><b>Bootstrap</b>
     </td>
   </tr>
   <!-- Backend & Databases -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br><b>PHP</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br><b>Laravel</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Node.js
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br><b>Node.js</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
-      <br>Spring Boot
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br><b>Spring Boot</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>MySQL</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><b>MongoDB</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-      <br>Java
+    <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br><b>Java</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      <br>Python
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>Python</b>
     </td>
   </tr>
   <!-- Development Tools & Others -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
+    <td align="center" width="100">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>GitHub
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>GitHub</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VS Code
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br><b>VS Code</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><b>Docker</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br><b>AWS</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Linux
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><b>Linux</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-      <br>Postman
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br><b>Postman</b>
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
-      <br>Android
+    <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" />
+      <br><b>Android</b>
     </td>
   </tr>
 </table>
 </div>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">GitHub Statistics</h3>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Languages Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HannerB&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HannerB&hide_border=true&theme=transparent" /> 
-</p>
-
-<!-- Trophy Section -->
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
-
-<!-- Detailed GitHub Stats -->
-<h3 align="center">Contribution Details</h3>
+<!-- GitHub Statistics with enhanced styling -->
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HannerB&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HannerB&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HannerB&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HannerB&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannerB&theme=transparent" height="180em" alt="Commitments"/>
+  <h2>📊 GitHub Statistics</h2>
 </div>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/HannerB/HannerB/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<!-- Enhanced Stats Layout -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannerB&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HannerB&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph"  />
+</div>
 
-<!-- Profile Views Counter -->
-<h6 align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HannerB&theme=radical&hide_border=true" height="150" alt="streak graph"  />
+</div>
+
+<!-- Trophy Section with enhanced styling -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15"/>
+</div>
+
+<!-- Contribution Details with modern theme -->
+<div align="center">
+  <h2>🌟 Contribution Insights</h2>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HannerB&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HannerB&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HannerB&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HannerB&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannerB&theme=radical" height="180em" />
+</div>
+
+<!-- Snake Animation with enhanced container -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HannerB/HannerB/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HannerB/HannerB/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/HannerB/HannerB/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Profile Views Counter with style -->
+<div align="center">
   <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34" />
-</h6>
+</div>
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
