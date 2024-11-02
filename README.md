@@ -1,6 +1,6 @@
 # <div align="center">⚡ Welcome to my Digital Space ⚡</div>
 
-<!-- Introduction with animated text -->
+<!--Introduction with animated text-->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Hanner+B;Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
