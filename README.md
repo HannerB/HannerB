@@ -1,4 +1,4 @@
-# <div align="center">⚡ Welcome to my Digital Space ⚡</div>
+#<div align="center">⚡ Welcome to my Digital Space ⚡</div>
 
 <!--Introduction with animated text-->
 <div align="center">
