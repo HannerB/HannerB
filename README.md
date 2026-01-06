@@ -108,7 +108,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Profile Views Counter -->
