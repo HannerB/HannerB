@@ -1,117 +1,121 @@
-# <div align="center">Hanner B</div>
+<div align="center">
 
-<div align="center" > 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+# Hanner B
 
-<div align="center"> 
-  <a href="https://github.com/HannerB?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HannerB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/HannerB?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HannerB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer;Building+scalable+web+applications" alt="Typing SVG" />
+
+[![GitHub followers](https://img.shields.io/github/followers/HannerB?label=Follow&style=flat&color=0969da)](https://github.com/HannerB?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/HannerB?style=flat&color=0969da)](https://github.com/HannerB?tab=repositories&sort=stargazers)
 
 ---
- 
-## 💻 Tech Stack 
 
-<table align="center">
+### About
+
+Full Stack Developer with experience building web applications across the entire stack —<br>
+from interactive frontends to scalable backend services and cloud infrastructure.<br>
+Focused on writing clean, maintainable code and delivering reliable solutions.
+
+---
+
+### Tech Stack
+
+<table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      <p>React</p>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" />
-      <p>Angular</p>
+      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="65" height="65" />
+      <br>Angular
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
-      <p>JavaScript</p>
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
-      <p>TypeScript</p>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" />
-      <p>Laravel</p>
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="65" height="65" />
+      <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-      <p>Node.js</p>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
-      <p>Spring Boot</p>
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="48" height="48" />
-      <p>NestJS</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <p>MySQL</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-      <p>PostgreSQL</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-      <p>MongoDB</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48" />
-      <p>GraphQL</p>
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="65" height="65" />
+      <br>NestJS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-      <p>Docker</p>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-      <p>AWS</p>
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <p>Linux</p>
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-      <p>Git/GitHub</p>
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="65" height="65" />
+      <br>GraphQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>Git/GitHub
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HannerB&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannerB&hide_border=true&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HannerB&hide_border=true&count_private=true&show_icons=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="stats" />
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HannerB&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="languages" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HannerB&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
+<br>
+
+<img width="390" src="https://streak-stats.demolab.com?user=HannerB&theme=github-dark-blue&hide_border=true" alt="streak" />
+
+<br>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HannerB&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" alt="activity graph" />
 
 ---
 
-## 🏆 GitHub Achievements
+### Connect
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HannerB&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
+<!-- Replace # with your actual links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@HannerB?theme=rule34" />
 </div>
